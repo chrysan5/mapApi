@@ -1,0 +1,15 @@
+
+spring:
+  profiles:
+    include: b8b7144f4a6dfe9a5bf20c673e3c3bef
+
+
+#spring:
+#  security:
+#    oauth2:
+#      client:
+#        registration:
+#          Kakao:
+#            client-id: 5a0f454edcfa03449fa61a887a45de32
+#            client-secret: JqBoL0EcIkwnwWkuD0oRKe4ODjm9F1YB
+#            javaScript: c4d7b97d6975edcc8b2dce1ad69ebe0a
