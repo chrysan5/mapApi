@@ -85,7 +85,7 @@
 //
 //            // 비밀번호 입력
 //            element = driver.findElement(By.id("pw"));
-//            element.sendKeys("freedom7853");
+//            element.sendKeys(";kjp;'");
 //
 //            // 전송
 //            element = driver.findElement(By.className("btn_global"));
