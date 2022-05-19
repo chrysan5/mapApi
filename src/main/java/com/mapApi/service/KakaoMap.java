@@ -63,16 +63,11 @@ public class KakaoMap {
         }catch (Exception e) {
             e.printStackTrace();
         } finally {
-//            driver.close(); // 5. 브라우저 종료
+            driver.close(); // 5. 브라우저 종료
         }
 
 
     }
 
-
-//    public static void main(String[] args) {
-//        NaverLogin bot1 = new NaverLogin();
-//        bot1.activateBot();
-//    }
 }
 

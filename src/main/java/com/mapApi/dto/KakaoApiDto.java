@@ -18,6 +18,7 @@ public class KakaoApiDto {
     public String place_name; //장소명,업체명
     public String place_url; //장소 상세페이지 url
     public String road_address_name; //전체 도로명 주소
+         public String address_name; //전체 지번 주소
     public String x;
     public String y;
     }
